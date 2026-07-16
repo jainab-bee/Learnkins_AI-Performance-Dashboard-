@@ -2,11 +2,6 @@
 
 This folder contains the AI Performance Analytics Dashboard for LearnKins.
 
-![Dashboard Preview]
-
-### Project Demo
-<video src="assets/20260716-1228-28.0949516.mp4" width="100%" controls></video>
-
 ## Features
 - **Learning Heatmaps**: Visualizes student week-over-week active days.
 - **Topic Mastery Graphs**: Horizontal bar chart tracking strengths and weaknesses per subject.
