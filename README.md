@@ -2,7 +2,7 @@
 
 This folder contains the AI Performance Analytics Dashboard for LearnKins.
 
-![Dashboard Preview](assets/dashboard_preview.jpg)
+![Dashboard Preview]
 
 ### Project Demo
 <video src="assets/20260716-1228-28.0949516.mp4" width="100%" controls></video>
